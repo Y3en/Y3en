@@ -32,7 +32,7 @@ university: Chulalongkorn University — Computer Engineering
 year:       3rd (Expected Graduation: May 2028)
 gpax:       3.36
 location:   Bangkok, Thailand
-focus:      Full-Stack Web Development
+focus:      Backend & Full-Stack Web Development
 english:    EF SET 65/100 — Fluent
 ```
 
@@ -45,6 +45,8 @@ english:    EF SET 65/100 — Fluent
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
@@ -66,6 +68,8 @@ english:    EF SET 65/100 — Fluent
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![LINE](https://img.shields.io/badge/LINE_Messaging_API-00C300?style=flat-square&logo=line&logoColor=white)
 
 **Infrastructure & Cloud**
 
@@ -89,14 +93,21 @@ english:    EF SET 65/100 — Fluent
 **Hardware**
 
 ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=flat-square&logo=v&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
 ### `> cat projects.log`
 
-**[GearBoard — Intania Freshman Companion](https://github.com/Y3en)** `Jan 2026 – Present`
-> Centralized web app for CU Engineering students · Full-stack monorepo (Next.js App Router + Express) · PostgreSQL via Prisma · Auth with Better Auth + Google OAuth · AWS S3 & GCS file storage · Docker multi-stage deploy · E2E tested with Playwright + Vitest · Component-driven with Storybook
+**[NADHAI — AI Receptionist for Aesthetic Clinics](https://nadhai.com)** `2026 – Present`
+> Aesthetic Clinic OS for Thailand, live at nadhai.com · AI front desk on the clinic's own LINE OA, backed by OPD records, POS, billing and CRM · Developer on the Booking & Operations track: book and cancel appointments inside LINE (chat flow + LIFF mini-app), synced to the clinic calendar · Multi-tenant architecture · TypeScript, Express, Prisma, PostgreSQL (Neon), Vite · Deployed on Vercel with GitHub Actions CI
+
+**[FinLover — Personal Finance App](https://github.com/ComBiao/FinLover)** `2026 – Present`
+> Course team project (9-person Agile team) · Backend developer · Next.js, MongoDB transactions, Zod contracts, Swagger · One-reviewer-per-PR code review on GitHub · Sprint 3: owning the Financial Reports API contract
+
+**[Sushiro — Rental Car Booking REST API](https://github.com/Y3en/sushiro-rental-car)** `Oct – Nov 2026`
+> Two-person course project (2110503 SW Dev Practice) · Node.js + Express + MongoDB (Mongoose) with transactions · JWT auth with user/admin roles · Redis-backed notification worker and no-show scheduler · Integration tests + Postman/Newman collection
 
 **[PromptLaew — AI Prompt Platform](https://promptlaew.vercel.app/)** `Oct 2025`
 > Team web project · Built authentication system (register, OAuth redirect, session handling) and About page — from REST API design to frontend integration · Collaborative delivery via GitHub → deployed on Vercel
@@ -109,7 +120,8 @@ english:    EF SET 65/100 — Fluent
 ### `> cat experience.log`
 
 ```
-[2026]  Leadership  — Head of Construction, Rotaract DekSarng6 Building Camp (TBA)
+[2026]  Work        — Developer (Booking & Operations), NADHAI
+[2026]  Leadership  — Head of Construction, Rotaract DekSarng6 Building Camp, Mae Hong Son (Dec)
 [2026]  Teaching    — Rotaract DekSilp19 Teaching Camp, Mukdahan
 [2026]  Volunteer   — PunFun, high school orientation camp, Suphanburi
 [2025]  Leadership  — Head of CU BaanJiJah, house for incoming freshmen
@@ -120,7 +132,7 @@ english:    EF SET 65/100 — Fluent
 
 ### `> cat coursework.txt`
 
-`Web Development` · `Data Structures & Algorithms` · `OOP` · `DBMS` · `Software Engineering` · `UI/UX Design` · `Full-Stack Development`
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Architecture` · `Computer Networks` · `Distributed Systems` · `Embedded Systems` · `Software Engineering` · `Web Development` · `UI/UX Design`
 
 ---
 
