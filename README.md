@@ -15,8 +15,11 @@
 
 *Building things for the web. One commit at a time.*
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+%26+Full-Stack+Web+Developer;TypeScript+%C2%B7+Node+%C2%B7+PostgreSQL;Building+NADHAI+%E2%80%94+live+in+production)](https://nadhai.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-xv33n__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xv33n_)
 [![GitHub](https://img.shields.io/badge/GitHub-Y3en-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Y3en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarus_Suanploy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarus-suanploy-b028b13a5)
 [![Email](https://img.shields.io/badge/Email-sarus2549@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sarus2549@gmail.com)
 
 </div>
@@ -33,7 +36,8 @@ year:       3rd (Expected Graduation: May 2028)
 gpax:       3.36
 location:   Bangkok, Thailand
 focus:      Backend & Full-Stack Web Development
-english:    EF SET 65/100 — Fluent
+english:    Working proficiency
+status:     Open to Summer 2027 internships (Bangkok)
 ```
 
 ---
@@ -87,6 +91,8 @@ english:    EF SET 65/100 — Fluent
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -101,12 +107,12 @@ english:    EF SET 65/100 — Fluent
 ### `> cat projects.log`
 
 **[NADHAI — AI Receptionist for Aesthetic Clinics](https://nadhai.com)** `2026 – Present`
-> Aesthetic Clinic OS for Thailand, live at nadhai.com · AI front desk on the clinic's own LINE OA, backed by OPD records, POS, billing and CRM · Developer on the Booking & Operations track: book and cancel appointments inside LINE (chat flow + LIFF mini-app), synced to the clinic calendar · Multi-tenant architecture · TypeScript, Express, Prisma, PostgreSQL (Neon), Vite · Deployed on Vercel with GitHub Actions CI
+> Aesthetic Clinic OS for Thailand, live at nadhai.com · AI front desk on the clinic's own LINE OA, backed by OPD records, POS, billing and CRM · Developer on the Booking & Operations track: book and cancel appointments inside LINE (chat flow + LIFF mini-app), synced to the clinic calendar · Multi-tenant architecture (clinic-scoped data) · 40 merged pull requests · GitHub Actions CI on every PR (type-check, unit tests, build) · Built with an agentic AI workflow (Claude Code), reviewing and testing generated code before merge · TypeScript, Express, Prisma, PostgreSQL (Neon), Vite · Deployed on Vercel
 
 **[FinLover — Personal Finance App](https://github.com/ComBiao/FinLover)** `2026 – Present`
 > Course team project (9-person Agile team) · Backend developer · Next.js, MongoDB transactions, Zod contracts, Swagger · One-reviewer-per-PR code review on GitHub · Sprint 3: owning the Financial Reports API contract
 
-**[Sushiro — Rental Car Booking REST API](https://github.com/Y3en/sushiro-rental-car)** `Oct – Nov 2026`
+**Sushiro — Rental Car Booking REST API** `Oct – Nov 2026`
 > Two-person course project (2110503 SW Dev Practice) · Node.js + Express + MongoDB (Mongoose) with transactions · JWT auth with user/admin roles · Redis-backed notification worker and no-show scheduler · Integration tests + Postman/Newman collection
 
 **[PromptLaew — AI Prompt Platform](https://promptlaew.vercel.app/)** `Oct 2025`
@@ -136,13 +142,13 @@ english:    EF SET 65/100 — Fluent
 
 ---
 
-### `> git log --stats`
+### [`> git log --stats`](https://github.com/Y3en?tab=overview)
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y3en&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Y3en)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y3en&theme=github_dark)](https://github.com/Y3en)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3en&layout=compact&theme=github_dark&hide_border=true&count_private=true)](https://github.com/Y3en)
+[![Contribution graph](https://ghchart.rshah.org/58a6ff/Y3en)](https://github.com/Y3en)
 
 </div>
 
